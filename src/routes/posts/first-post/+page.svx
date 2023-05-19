@@ -1,7 +1,0 @@
----
-layout: post
-title: First Post
-date: 5/19/2023
----
-
-This is my first post.
